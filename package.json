@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "express": "^4.16.4",
+    "pg": "^8.11.5",
     "uuid": "^3.4.0"
   }
 }
